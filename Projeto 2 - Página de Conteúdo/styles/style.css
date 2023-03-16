@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.navbar {
+
+    background-color: #222222d6;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    height: 6rem;
+}
+
+.navbar h1 {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+
+}
+
+
+.linha {
+    background-color: rgb(207, 148, 13);
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+
+}
+
+.cabecalho {
+
+    margin-top: 3%;
+    font-size: 30px;
+    height: 10.3rem;
+    margin-left: 10%;
+    width: 80rem;
+}
+
+.cabecalho h1 {
+
+    text-align: center;
+    color: #111;
+}
+
+.cabecalho p {
+
+    margin-top: 5%;
+    font-size: 22px;
+    color: #555;
+    width: 58rem;
+    margin-left: 10%;
+
+
+}
+
+.cabecalho h3 {
+
+    margin-top: 2%;
+    font-size: 13px;
+    color: #111;
+    width: 58rem;
+    margin-left: 10%;
+
+
+}
+
+.imagem {
+    padding: 10px 16px;
+    width: 15rem;
+    margin-top: 12%;
+    height: 3rem;
+    margin-left: 15.33%;
+
+
+
+
+}
+
+.fbc {
+
+    margin-left: 10%;
+    height: 30px;
+
+
+}
+
+
+
+.ttw {
+    margin-left: 10%;
+    height: 30px;
+
+}
+
+
+.wpp {
+    margin-left: 10%;
+    height: 30px;
+
+}
+
+
+.conteudo {
+
+    margin-left: 65%;
+    width: 48rem;
+    margin-top: 30%;
+
+
+}
+
+.p1 {
+
+    color: #555;
+    font-size: 21px;
+}
+
+
+.p2 {
+
+    color: #555;
+    font-size: 21px;
+}
+
+hr {
+
+    width: 60rem;
+    margin-top: 35%;
+
+
+
+}
+
+.smart {
+
+    margin-left: 65%;
+    width: 48rem;
+    text-align: center;
+    font-size: 20px;
+    color: #fd8a24;
+    font-weight: bold
+}
+
+.fotolampada {
+
+    align-items: center;
+
+}
+
+#pequeno {
+
+    font-size: 11px;
+    width: 50rem;
+    margin-left: 8.8rem;
+    color: #555;
+
+}
+
+.fotolampada img {
+
+    width: 48rem;
+    margin-left: 65%;
+
+}
+
+.economizar {
+
+    margin-left: 65%;
+    width: 48rem;
+    font-size: 20px;
+    color: #fd8a24;
+    font-weight: bold
+
+
+}
+
+#preto {
+
+    color: #555;
+
+
+}
+
+
+.geladeira  {
+
+    margin-left: 65%;
+
+
+}
+
+.geladeira h1 {
+
+    width: 50rem;
+
+}
+
+.geladeira p {
+
+    width: 48rem;
+    color: #555;
+    font-size: 21px;
+
+}
+
+
+.geladeira img {
+
+    width: 48rem;
+    margin-left: 65%;
+
+}
+
+.chuveiro  {
+
+    margin-left: 65%;
+
+
+}
+
+.chuveiro h1 {
+
+    width: 50rem;
+
+}
+
+.chuveiro p {
+
+    width: 48rem;
+    color: #555;
+    font-size: 21px;
+
+}
+

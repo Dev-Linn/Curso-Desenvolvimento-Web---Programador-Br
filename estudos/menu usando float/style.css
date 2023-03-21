@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+}
+
+li {
+    float: right;
+    padding: 10px;
+    font-size: 22px;
+    background-color: #333;
+    color: white;
+    border: solid 1px;
+    border-radius: 20px;
+}
+
+li:hover {
+    background-color: blueviolet;
+}
